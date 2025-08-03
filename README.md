@@ -14,3 +14,5 @@ Visualized student feedback from college events to uncover sentiment trends, sat
 NLP, data cleaning, survey interpretation, bilingual presentation, insight storytelling
 # 🔹 Tools Used: 
 Python, pandas, seaborn, Matplotlib
+
+Link - https://www.linkedin.com/posts/asmit-kansal-5628a7252_task-3-activity-7357482523565707264-3ZyY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5snFoB891Bp6NpF35y47y5qZph4fh1bmo
